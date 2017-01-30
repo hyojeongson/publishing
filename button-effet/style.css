@@ -26,11 +26,13 @@ body {
   transform: translate(-50%, -50%);
 }
 
+
+
 .search {
   position: relative;
 }
 .search button {
-  margin-bottom: 5px;
+  margin: 5px;
 }
 
 .icon {
